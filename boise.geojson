@@ -2,7 +2,7 @@
 ,
 {"type":"Feature","properties":{"City":"Dunhuang","Country":"China","Comments":"Dunhuang is situated at a point of vital strategic and logistical importance, at the crossroads of two major trade routes within the Silk Road network."},"geometry":{"type":"Point","coordinates":[94.661881,40.14213]}}
 ,
-{"type":"Feature","properties":{"City":"Loulan","Country":"China","Comments":"Loulan was an ancient kingdom based around an important oasis city along the Silk Road already known in the 2nd century BCE on the northeastern edge of the Lop Desert. It was intermittently under Chinese control from the early Han dynasty onward until its abandonment centuries later."},"geometry":{"type":"Point","coordinates":[89.840644,40.527633]}}
+{"type":"Feature","properties":{"City":"Loulan","Country":"China","Comments":"Loulan was an ancient kingdom based around an important oasis city along the Silk Road already known in the 2nd century BC on the northeastern edge of the Lop Desert. It was intermittently under Chinese control from the early Han dynasty onward until its abandonment centuries later."},"geometry":{"type":"Point","coordinates":[89.840644,40.527633]}}
 ,
 {"type":"Feature","properties":{"City":"Kashghar","Country":"China","Comments":"Kashgar was an isolated oasis on the long trade route across the Asian continent that lies in far western China. It was a major hub along the great Silk Road as the northern and southern Silk Routes crossed here and caravans departed for Central Asia, India, Pakistan, and ancient Persia (current Iran)."},"geometry":{"type":"Point","coordinates":[75.987482,39.470298]}}
 ,
